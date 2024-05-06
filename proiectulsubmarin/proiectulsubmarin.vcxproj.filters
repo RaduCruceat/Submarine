@@ -16,6 +16,9 @@
     <Filter Include="dlls">
       <UniqueIdentifier>{85b1bb95-8cf1-4956-a2f0-73ac80596e6b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Image">
+      <UniqueIdentifier>{db70dee3-ef2e-4e30-9fb5-6be752836a83}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <CopyFileToFolders Include="dlls\glu32.dll">
@@ -52,5 +55,10 @@
     <ClCompile Include="patrat.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\Submarin.png">
+      <Filter>Image</Filter>
+    </Image>
   </ItemGroup>
 </Project>
