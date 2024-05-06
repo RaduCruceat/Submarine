@@ -5,6 +5,11 @@ VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "proiectulsubmarin", "proiectulsubmarin\proiectulsubmarin.vcxproj", "{C3F85A2E-7411-4163-BDA2-20CA11A2F03B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Image", "Image", "{E5BEA156-6D6B-4025-8451-3027B16FFCD5}"
+	ProjectSection(SolutionItems) = preProject
+		..\Submarin.png = ..\Submarin.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
