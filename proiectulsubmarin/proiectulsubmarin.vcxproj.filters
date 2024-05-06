@@ -55,7 +55,7 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\Submarin.png">
-      <Filter>Resource Files</Filter>
+      <Filter>Source Files</Filter>
     </Image>
   </ItemGroup>
 </Project>
