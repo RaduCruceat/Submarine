@@ -22,4 +22,4 @@ C/C++ graphics application that utilizes OpenGL to render a 3D model of a submar
 
 
 
-<img src="https://github.com/RaduCruceat/Submarine/blob/master/proiectulsubmarin/Submarin.png" alt="Game Menu">
+<img src="https://raw.githubusercontent.com/RaduCruceat/Submarine/master/proiectulsubmarin/Submarine.gif" alt="Game Menu">
